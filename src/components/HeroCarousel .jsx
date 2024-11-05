@@ -11,7 +11,7 @@ const items = [
   },
   {
     image:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YfjBLH-7TJVNDpJvs5qigQDl2Jpm-UDADg&s',
+      'https://suadecoracao.com/wp-content/uploads/2023/05/Fotos-escolher-nome-pizzaria.webp',
     title: 'Qualidade inquestionável!',
     description: 'Sabores e experiências inconfundíveis.'
   },

@@ -4,7 +4,7 @@ import Footer from '../components/Footer'
 import Products from '../components/Products'
 import FAQ from '../components/FAQ'
 import AboutUs from '../components/AboutUs'
-import Cart from '../components/Cart'
+// import Cart from '../components/Cart'
 import HeroCarousel from '../components/HeroCarousel '
 
 const HomePage = () => {

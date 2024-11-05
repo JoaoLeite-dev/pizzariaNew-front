@@ -1,3 +1,4 @@
+import { Button } from '@mui/material';
 import React from 'react';
 
 const ProductCard = ({ name, description, price, image }) => {
@@ -7,7 +8,7 @@ const ProductCard = ({ name, description, price, image }) => {
       <h2 className="text-lg font-semibold">{name}</h2>
       <p className="text-gray-600">{description}</p>
       <p className="text-yellow-500 font-bold">${price}</p>
-      <button className="bg-yellow-500 text-white px-4 py-2 mt-4 rounded">Adicionar ao Carrinho</button>
+      <Button variant="contained" sx={{backgroundColor: "#d3c014"}}>Adicionar ao Carrinho</Button>
     </div>
   );
 };
